@@ -3,7 +3,6 @@ import Router from 'vue-router'
 import HelloWorld from '@/components/HelloWorld'
 import NotFoundView from '@/components/404'
 import Dashboard from '@/components/Dashboard'
-
 Vue.use(Router)
 
 export default new Router({
